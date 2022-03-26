@@ -8,3 +8,6 @@ whenever we create a new react app it comes with *Babel*, *Webpack*, *DevServer*
 
 ### Component
 A component is a function or class that produces HTML to show the user(*using JSX*) and handles feedback from the user(*Using Event Handlers*)
+
+### JSX 
+<div>Amaterasu</div> -- Babel converts this JSX to react/javascript code -- React.createElement("div", null, "Amaterasu");
