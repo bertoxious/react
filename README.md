@@ -17,3 +17,5 @@ Babel converts this JSX to react/javascript code
 ```javascript
 React.createElement("div", null, "Amaterasu");
 ```
+JSX is a special dialect of JS(its not HTML)  
+Browsers don't understand JSX Code! We write JSX then run tools(*Babel*) to turn it into normal JS  
